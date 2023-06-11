@@ -1,4 +1,5 @@
-Se leen tres números positivos en un programa HTML. Determinar si son las longitudes de los lados de un triángulo (recordar que en todo triángulo cada lado es
+Se leen tres números positivos en un programa HTML. Determinar si son las longitudes de los lados de un 
+triángulo (recordar que en todo triángulo cada lado es
 menor o igual qua la suma de los otros dos y mayor que su diferencia, basta mostrarlo
 para un lado). En caso afirmativo, informar si el mismo es equilátero (3 lados iguales),
 isósceles (2 lados iguales) o escaleno (3 lados distintos).
